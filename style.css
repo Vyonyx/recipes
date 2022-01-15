@@ -1,0 +1,31 @@
+h1, h3 {
+  color: #ffffff;
+  background-color: #000000;
+  text-align: center;
+  font-family: "Helvetica";
+}
+
+p, li, a {
+  font-family: "Helvetica";
+  font-size: 14px;
+  margin: 5px;
+}
+
+ul li {
+  font-family: "Garamond";
+  font-size: 16px;
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.links .heading {
+  color: #000000;
+  text-align: left;
+  background-color: inherit;
+}
